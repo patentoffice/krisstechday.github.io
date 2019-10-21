@@ -839,9 +839,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #schedule .schedule-item {
   border-bottom: 1px solid #cad4f6;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 5px;
   transition: background-color ease-in-out 0.3s;
+  vertical-align:middle;
 }
 
 #schedule .schedule-item:hover {
@@ -851,6 +852,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #schedule .schedule-item time {
   padding-bottom: 5px;
   display: inline-block;
+  vertical-align:middle;
 }
 
 #schedule .schedule-item .speaker {
