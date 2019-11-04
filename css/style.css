@@ -879,7 +879,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #schedule .schedule-item h4 {
   font-size: 18px;
   font-weight: 600;
-  margin-bottom: 5px;
+  margin: 5px 0 10px 0;
 }
 
 #schedule .schedule-item h4 span {
@@ -1072,13 +1072,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #supporters {
-  padding: 60px 0;
+  padding: 10px 0;
 }
 
 #supporters .supporters-wrap {
   border-top: 1px solid #e0e5fa;
   border-left: 1px solid #e0e5fa;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 #supporters .supporter-logo {
@@ -1096,7 +1096,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-bottom: 1px solid #e0e5fa;
   overflow: hidden;
   background: rgba(255, 255, 255, 0.5);
-  height: 160px;
+  height: 80px;
 }
 
 #supporters .supporter-logo:hover img {
@@ -1106,6 +1106,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #supporters img {
   transition: all 0.4s ease-in-out;
+  padding-left : 10px
 }
 
 /*--------------------------------------------------------------
